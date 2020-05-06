@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Staji Wilson -- Assistant Engineer Trainee  -- <twitter>
 
 # THANKS
 
-    <name>
+    Staji Wilson
 
 # TECHNOLOGY COLOPHON
 
