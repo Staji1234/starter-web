@@ -1,5 +1,5 @@
 
-<!-- Copyright Notice -->
+<!-- Copyright Notice Rebase example -->
 
 # Starter Web Repo
 
